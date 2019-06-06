@@ -1,3 +1,3 @@
-# http-proxy-docker
+# nginx-proxy
 
 http-proxy-docker
